@@ -67,5 +67,6 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "CS310-First-Game.slnx"
+    "dotnet.defaultSolution": "CS310-First-Game.slnx",
+    "FSharp.suggestGitignore": false
 }
