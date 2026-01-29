@@ -6,7 +6,7 @@ The user has the option to use the arrows or WSAD keys to control the plane and 
 
 The purpose for writing this software is to become more familiar with the game development industry and overcome challenges while completing the various tasks.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/04IP3YIaZMw)
 
 # Development Environment
 
